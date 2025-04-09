@@ -1,7 +1,7 @@
 
 # Privacy Simplifier Chrome Extension
 
-**Privacy Simplifier** is a powerful Chrome extension that helps users quickly understand long and complex privacy policies. It provides two main features:
+**Privacy Simplifier** is a Chrome extension that helps users quickly understand long and complex privacy policies. It provides two main features:
 
 -  **Summarize** privacy policies in simple language with clickable sections that link back to the original content.
 -  **Q&A** – Ask questions about the current page's privacy policy and get instant, relevant answers.
