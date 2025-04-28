@@ -6,7 +6,7 @@ chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
             method: "POST",
             headers: {
                 "Content-Type": "application/json",
-                "Authorization": "Bearer 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"
+                "Authorization": "Bearer API KEY"
             },
             body: JSON.stringify({
                 model: "gpt-4o",
